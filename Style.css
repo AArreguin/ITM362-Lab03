@@ -69,4 +69,7 @@ h1{
 	  font-size: 16px;
 	  text-align: center-left;
   }
+input, select, textarea{
+    color: #2f4f4f;
+}
  
