@@ -30,8 +30,7 @@ display: block;
 }
 
 body{
-  background-image: url("https://orig15.deviantart.net/4027/f/2012/207/5/3/unsc_background___mobile_by_crimsonxseraph-d58o1bz.jpg");
-  background-size: cover;
+  background-image: url("http://www.haloarchive.com/wp-content/uploads/2015/01/resgr.jpg");
   font-family: serif;
   display: block;
   font-family: Arial, sans-serif;
@@ -48,7 +47,7 @@ fieldset{
   text-align: center-left;
   font-family: Arial, sans-serif;
   font-weight: 400;
-  color: white;
+  color: #000000;
   font-size: 14px;
   letter-spacing: 2px;
   font-weight: 300;
@@ -60,16 +59,13 @@ h1{
   text-align: center;
   font-size: 45px;
   font-weight: bold;
-  color:white;
+  color: #000000;
   font-family: sans-serif;
   }
   
   footer{
-	  color: white;
+	  color: #000000;
 	  font-size: 16px;
 	  text-align: center-left;
   }
-input, select, textarea{
-    color: #2f4f4f;
-}
  
